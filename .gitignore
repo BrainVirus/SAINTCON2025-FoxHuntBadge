@@ -1,0 +1,23 @@
+# PlatformIO
+**/.pio/
+**/.pioenvs/
+**/.piolibdeps/
+**/.clangd/
+*.ino.cpp
+
+# ESP-IDF & CMake build outputs
+**/build/
+**/sdkconfig.old
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
